@@ -10,6 +10,6 @@ github_username: yixiao-music
 github_repo: yixiao-music.github.io
 
 markdown: kramdown
-ga_id: UA-36274081-2
+ga_id: UA-126536496-1
 
 include: ['_pages']
