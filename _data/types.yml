@@ -1,5 +1,5 @@
 ---
-- name: Symbolic Music
+- name: Music
   sub: SYM
 - name: Audio and Signal
   sub: AUO

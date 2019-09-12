@@ -105,3 +105,35 @@
   sub: AI
   note: '<b>NOTE</b>: Mandatory abstract deadline on May 16, 2019. More info <a href="https://nips.cc/Conferences/2019/Dates">here</a>.'
 
+- title: CSMT
+  year: 2019
+  id: csmt2019
+  link: http://www.csmcw-csmt.cn/
+  deadline: '2019-07-22 23:59:59'
+  timezone: UTC+8
+  date: December 26-29, 2019
+  place: Harbin Institute of Technology
+  sub: SYM
+
+- title: CMMR
+  year: 2019
+  id: cmmr2019
+  link: https://cmmr2019.prism.cnrs.fr/
+  deadline: '2019-05-09 23:59:59'
+  timezone: UTC+2
+  date: October 14-18, 2019
+  place: Marseille, France
+  sub: SYM  
+
+- title: SMC
+  year: 2019
+  id: smc2019
+  link: http://smc2019.uma.es/
+  deadline: '2019-02-07 23:59:59'
+  timezone: UTC+1
+  date: May 28-31, 2019
+  place: Malaga, Spain
+  sub: SYM    
+
+  
+
