@@ -1,13 +1,9 @@
 ---
-- name: Machine Learning
-  sub: ML
-- name: Computer Vision
-  sub: CV
-- name: Natural Language Proc
-  sub: NLP
-- name: Robotics
-  sub: RO
-- name: Speech/SigProc
-  sub: SP
-- name: Data Mining
-  sub: DM
+- name: Symbolic Music
+  sub: SYM
+- name: Audio and Signal
+  sub: AUO
+- name: General AI
+  sub: AI
+- name: All Others
+  sub: OTHER

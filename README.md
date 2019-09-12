@@ -1,6 +1,8 @@
-## AI Deadlines [![Build Status](https://travis-ci.com/abhshkdz/ai-deadlines.svg?branch=gh-pages)](https://travis-ci.com/abhshkdz/ai-deadlines)
+## AI Deadlines
 
-Countdown timers to keep track of a bunch of CV/NLP/ML/RO conference deadlines.
+Computer music conferences deadlines tracking.
+
+This is a sub-field separate fork for aideadlin.es project.
 
 ## Adding/updating a conference
 
@@ -15,6 +17,7 @@ To add or update information:
 
 ## Forks & other useful listings
 
+- [aideadlin.es][11] by@abhshkdz
 - [geodeadlin.es][3] by @LukasMosser
 - [neuro-deadlines][4] by @tbryn
 - [ai-challenge-deadlines][5] by @dieg0as
@@ -26,6 +29,10 @@ To add or update information:
 
 [MIT][1]
 
+## Editors
+
+- Yixiao Zhang, NYU Shanghai
+
 [1]: https://abhshkdz.mit-license.org/
 [2]: http://aideadlin.es/
 [3]: http://geodeadlin.es/
@@ -35,3 +42,4 @@ To add or update information:
 [8]: https://creedai.github.io/ai-deadlines/
 [9]: https://ekut-es.github.io/es-deadlines/
 [10]: https://jackietseng.github.io/conference_call_for_paper/conferences.html
+[11]: http://aideadlin.es
