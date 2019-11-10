@@ -36,22 +36,22 @@
 
 
 - title: ICML
-  year: 2019
-  id: icml19
-  link: https://icml.cc/Conferences/2019
-  deadline: '2019-01-23 15:59:00'
+  year: 2020
+  id: icml20
+  link: https://icml.cc/Conferences/2020
+  deadline: '2019-02-07 03:59:00'
   timezone: America/Los_Angeles
-  date: June 10-15, 2019
+  date: July 14-16, 2020
   place: Long Beach, USA
   sub: AI
-  note: '<b>NOTE</b>: Mandatory abstract deadline on Jan 18, 2019. More info <a href=''https://icml.cc/Conferences/2019/CallForPapers''>here</a>.'
+  note: '<b>NOTE</b>: Mandatory abstract deadline on Jan 31, 2020. More info <a href=''https://icml.cc/Conferences/2020''>here</a>.'
 
 
 
 - title: KDD
-  year: 2019
-  id: kdd19
-  link: https://www.kdd.org/kdd2019
+  year: 2020
+  id: kdd20
+  link: https://www.kdd.org/kdd2020/
   deadline: '2019-02-03 23:59:59'
   timezone: UTC-11
   date: August 3-7, 2019
@@ -59,15 +59,15 @@
   sub: AI
 
 - title: IJCAI
-  year: 2019
-  id: ijcai19
-  link: https://www.ijcai19.org/
-  deadline: '2019-02-25 23:59:59'
+  year: 2020
+  id: ijcai20
+  link: https://www.ijcai20.org/
+  deadline: '2020-01-21 23:59:59'
   timezone: UTC-12
-  date: August 10-16, 2019
-  place: Macau, China
+  date: July 11-17, 2020
+  place: Yokohama, Japan
   sub: AI
-  note: '<b>NOTE</b>: Mandatory abstract deadline on Feb 19, 2019. More info <a href=''https://www.ijcai19.org/call-for-papers.html''>here</a>.'
+  note: '<b>NOTE</b>: Mandatory abstract deadline on Jan 15, 2020. More info <a href=''https://www.ijcai20.org/call-for-papers.html''>here</a>.'
 
 
 - title: ISMIR
@@ -81,16 +81,14 @@
   sub: SYM
 
 - title: MM
-  year: 2019
+  year: 2020
   id: ACMMultimedia
-  link: https://www.acmmm.org/2019/
-  deadline: '2019-04-08 23:59:59'
+  link: https://www.acmmm.org/2019new/wp/2020/
+  deadline: '2020-03-28 23:59:59'
   timezone: UTC-12
-  date: October 21-25, 2019
-  place: Nice, France
+  date: October 12-16, 2020
+  place: Seattle, USA
   sub: AUO
-  note: '<b>NOTE</b>: Mandatory abstract submission deadline on April 1. More info
-    <a href="https://www.acmmm.org/2019/important-dates/">here</a>.'
 
 
 
@@ -126,14 +124,24 @@
   sub: SYM  
 
 - title: SMC
-  year: 2019
-  id: smc2019
-  link: http://smc2019.uma.es/
-  deadline: '2019-02-07 23:59:59'
+  year: 2020
+  id: smc2020
+  link: https://smc2020torino.it/uk/
+  deadline: '2020-02-28 23:59:59'
   timezone: UTC+1
-  date: May 28-31, 2019
-  place: Malaga, Spain
+  date: June 20-26, 2020
+  place: Torino, Italy
   sub: SYM    
 
+- title: NIME
+  year: 2020
+  id: nime2020
+  link: http://nime2020.bcu.ac.uk/
+  deadline: '2020-01-24 23:59:59'
+  timezone: UTC+1
+  date: July 21-25, 2020
+  place: Birmingham, UK
+  sub: SYM  
+  
   
 
