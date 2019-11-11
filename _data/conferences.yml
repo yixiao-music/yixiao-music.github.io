@@ -39,7 +39,7 @@
   year: 2020
   id: icml20
   link: https://icml.cc/Conferences/2020
-  deadline: '2019-02-07 03:59:00'
+  deadline: '2020-02-07 03:59:00'
   timezone: America/Los_Angeles
   date: July 14-16, 2020
   place: Long Beach, USA
@@ -52,7 +52,7 @@
   year: 2020
   id: kdd20
   link: https://www.kdd.org/kdd2020/
-  deadline: '2019-02-03 23:59:59'
+  deadline: '2020-02-03 23:59:59'
   timezone: UTC-11
   date: August 3-7, 2019
   place: Anchorage, Alaska, USA
@@ -80,7 +80,7 @@
   place: Delft, The Netherlands
   sub: SYM
 
-- title: MM
+- title: ACM MM
   year: 2020
   id: ACMMultimedia
   link: https://www.acmmm.org/2019new/wp/2020/
