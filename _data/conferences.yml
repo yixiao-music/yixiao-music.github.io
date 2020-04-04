@@ -1,6 +1,16 @@
 
 ---
 
+- title: MM
+  year: 2020
+  id: mm20
+  link: https://2020.acmmm.org/
+  deadline: '2020-04-25 23:59:00'
+  timezone: UTC-12
+  date: October 12-16, 2020
+  place: Seattle, USA
+  sub: AI
+
 - title: CMMR
   year: 2020
   id: cmmr2020
