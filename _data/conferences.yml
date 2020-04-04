@@ -1,6 +1,37 @@
 
 ---
 
+- title: CMMR
+  year: 2020
+  id: cmmr2020
+  link: http://www.cmmr2020.gttm.jp/
+  deadline: '2020-04-30 23:59:59'
+  timezone: UTC+9
+  date: November 2-6, 2020
+  place: Tokyo, Japan
+  sub: SYM  
+  
+- title: NLP4MusA - ISMIR 2020 Workshop
+  year: 2020
+  id: nlp4musa2020
+  link: https://ismir.github.io/ISMIR2020
+  deadline: '2020-07-17 23:59:59'
+  timezone: UTC-4
+  date: October 16, 2020
+  place: -
+  sub: SYM  
+  note: Proceedings: Accepted papers will be published on the ACL Anthology.
+  
+- title: ML4MD - ICML 2020 Workshop
+  year: 2020
+  id: ml4md2020
+  link: https://sites.google.com/view/ml4md2020/home
+  deadline: '2020-05-01 23:59:59'
+  timezone: UTC-12
+  date: July 17-18, 2020
+  place: Online
+  sub: SYM  
+
 - title: AAAI
   year: 2020
   id: aaai20
@@ -71,14 +102,15 @@
 
 
 - title: ISMIR
-  year: 2019
-  id: ismir19
-  link: http://ismir2019.ewi.tudelft.nl/
-  deadline: '2019-04-05 23:59:59'
-  timezone: UTC-12
-  date: November 4-8, 2019
-  place: Delft, The Netherlands
+  year: 2020
+  id: ismir20
+  link: https://ismir.github.io/ISMIR2020
+  deadline: '2020-05-15 23:59:59'
+  timezone: UTC-4
+  date: October 11-15, 2020
+  place: Montreal, Canada
   sub: SYM
+  note: Abstract Submission, May 8, 2020
 
 - title: ACM MM
   year: 2020
@@ -122,6 +154,7 @@
   date: October 14-18, 2019
   place: Marseille, France
   sub: SYM  
+
 
 - title: SMC
   year: 2020
