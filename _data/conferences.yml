@@ -1,6 +1,8 @@
 
 ---
 
+
+
 - title: MM
   year: 2020
   id: mm20
@@ -30,7 +32,7 @@
   date: October 16, 2020
   place: None
   sub: SYM  
-  note: Proceedings: Accepted papers will be published on the ACL Anthology.
+  note: 'Proceedings: Accepted papers will be published on the ACL Anthology.'
   
 - title: ML4MD - ICML 2020 Workshop
   year: 2020
@@ -120,7 +122,7 @@
   date: October 11-15, 2020
   place: Montreal, Canada
   sub: SYM
-  note: Abstract Submission, May 8, 2020
+  note: 'Abstract Submission, May 8, 2020'
 
 - title: ACM MM
   year: 2020
